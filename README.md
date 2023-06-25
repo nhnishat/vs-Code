@@ -1,5 +1,8 @@
 # vs-Code
 ###Editor JSON
+
+
+
 {
 	"editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
 	"editor.fontLigatures": true,
