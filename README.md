@@ -1,16 +1,11 @@
 # vs-Code
 ###Editor JSON
-
+-Make Beautyful Your Vs code whiching more affectove in your vs code when coding feel so relax.
+and show your code more brightness 
 
 
 {
-
- 
- 
- 
- 
- 
- "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+        "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
 	"editor.fontLigatures": true,
 	"editor.formatOnSave": true,
 	"prettier.singleQuote": true,
