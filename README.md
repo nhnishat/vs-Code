@@ -4,7 +4,13 @@
 
 
 {
-	"editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+
+ 
+ 
+ 
+ 
+ 
+ "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
 	"editor.fontLigatures": true,
 	"editor.formatOnSave": true,
 	"prettier.singleQuote": true,
