@@ -1,6 +1,8 @@
 # vs-Code
-###Editor JSON
--Make Beautyful Your Vs code whiching more affectove in your vs code when coding feel so relax.
+###Editor JSON- 
+
+
+Make Beautyful Your Vs code whiching more affectove in your vs code when coding feel so relax.
 and show your code more brightness 
 
 
