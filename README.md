@@ -62,7 +62,6 @@ and show your code more brightness
 - Auto Import
 - ESLint
 - Bootstrap 5 Quick Snip
-- Bootstrap 5 Quick Snip
 - IntelliSense for CSS class names in HTML
 - JavaScript (ES6) code snippets
 - Live Sass Compiler
